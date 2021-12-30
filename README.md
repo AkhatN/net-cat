@@ -52,3 +52,5 @@ Net-cat creates a group chatvia TCP. The project has the following features :
     $ nc localhost 2525
 
 
+![alt text](ex-net.png "net-cat")​
+
